@@ -1,0 +1,41 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+.eggs/
+*.whl
+*.manifest
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+VENV/
+*.venv
+
+# Archivos de entorno
+.env
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de IDEs y editores de código
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de sistema
+.DS_Store
+*.swp
+*~
